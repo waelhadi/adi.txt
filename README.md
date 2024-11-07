@@ -1,2 +1,0 @@
-# adi.txt
-adi
